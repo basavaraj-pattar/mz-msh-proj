@@ -1,0 +1,5 @@
+{
+  "name": "MycoZen Mushrooms",
+  "description": "Premium farm-fresh oyster mushrooms from Hubballi-Dharwad. Wholesome, trustworthy, and delivered straight to your kitchen.",
+  "requestFramePermissions": ["geolocation"]
+}
