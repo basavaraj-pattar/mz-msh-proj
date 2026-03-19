@@ -653,7 +653,7 @@ export default function App() {
           <div className="absolute top-0 right-0 w-64 h-64 bg-accent/10 rounded-full blur-3xl -translate-y-1/2 translate-x-1/2" />
           <div className="absolute bottom-0 left-0 w-64 h-64 bg-secondary/10 rounded-full blur-3xl translate-y-1/2 -translate-x-1/2" />
           
-          <h2 className="text-4xl md:text-6xl font-bold mb-8 relative z-10">Join the Myco-Community</h2>
+          <h2 className="text-4xl md:text-6xl font-bold mb-8 relative z-10">Join the MycoZen Community</h2>
           <p className="text-xl text-cream/80 mb-12 max-w-2xl mx-auto relative z-10">
             Stay updated with our latest harvests, exclusive offers, and mind-blowing mushroom stories.
           </p>
