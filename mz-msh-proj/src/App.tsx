@@ -44,8 +44,8 @@ const PRODUCTS = [
     id: 1,
     name: "Fresh Oyster Mushrooms",
     weight: "200g",
-    oldPrice: "80",
-    newPrice: "60",
+    oldPrice: "100",
+    newPrice: "80",
     image: "/fresh oyester 200 gram.jpeg",
     link: "https://www.whatsapp.com/product/25458119097164279/919538474586/?app_absent=0"
   },
@@ -53,8 +53,8 @@ const PRODUCTS = [
     id: 2,
     name: "Fresh Oyster Mushrooms",
     weight: "500g",
-    oldPrice: "200",
-    newPrice: "150",
+    oldPrice: "250",
+    newPrice: "200",
     image: "/fresh oyester 400 gram.webp",
     link: "https://www.whatsapp.com/product/25699272723039163/919538474586/?app_absent=0"
   },
@@ -62,8 +62,8 @@ const PRODUCTS = [
     id: 3,
     name: "Fresh Oyster Mushrooms",
     weight: "1 Kg",
-    oldPrice: "400",
-    newPrice: "300",
+    oldPrice: "500",
+    newPrice: "350",
     image: "/freash oyester 80 gram.webp",
     link: "https://www.whatsapp.com/product/25317848851232822/919538474586/?app_absent=0"
   },
@@ -82,19 +82,19 @@ const REVIEWS = [
   {
     name: "Sandhya Gavade",
     rating: 5,
-    text: "The mushrooms are extremely fresh and have a wonderful texture. Best in Hubli!",
+    text: "Healthy, tasty 😋 same like natural mushroom, I am now a regular customer  of Mycozen Mushrooms",
     time: "2 weeks ago"
   },
   {
     name: "Santosh Gouli",
     rating: 5,
-    text: "Excellent quality and prompt delivery. My family loves the oyster mushroom curry we make with MycoZen.",
+    text: "Very good oyster mushrooms available here, I tried this tyoe of mushroom first time. Very good replacement for non veg. Vegans must try this",
     time: "1 month ago"
   },
   {
     name: "NikhilKumar M Sureban",
     rating: 5,
-    text: "Very professional service. The dried mushrooms are a great addition to my soups. Highly recommended.",
+    text: "I tasted oyster mushroom biryani here on opening ceremony, Also I was amazed with the benefits when I looked deep into the oyster mushroom benefits. I suggest everyone to eat oyster mushrooms seeing the health benefits.",
     time: "3 months ago"
   }
 ];
