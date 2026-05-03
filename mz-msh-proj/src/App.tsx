@@ -67,15 +67,6 @@ const PRODUCTS = [
     image: "/freash oyester 80 gram.webp",
     link: "https://www.whatsapp.com/product/25317848851232822/919538474586/?app_absent=0"
   },
-  {
-    id: 4,
-    name: "Dried Oyster Mushrooms",
-    weight: "100g",
-    oldPrice: "350",
-    newPrice: "250",
-    image: "/dried oyester mushroom.jpg",
-    link: "https://www.whatsapp.com/product/25574604305509245/919538474586/?app_absent=0"
-  },
 ];
 
 const REVIEWS = [
